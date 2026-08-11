@@ -94,4 +94,4 @@ Allow: /
 User-agent: Discordbot
 Allow: /
 
-Sitemap: https://fromjungle.co/sitemap-index.xml
+Sitemap: https://fromjungle.co/sitemap.xml
