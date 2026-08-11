@@ -1,0 +1,48 @@
+# Jungle
+
+> A Nepal-based studio building connected digital systems — branding, design, technology, and growth — for serious brands. We design and build digital ecosystems that help modern brands grow and thrive.
+
+Based at Na:tole, Pulchowk, Lalitpur, Nepal. Also known as Jungle Tech and Jungle Technologies.
+
+## What we do
+
+- **Strategy & Brand** — Strong brands are built on clear thinking. We help define identity and strategy that give businesses a distinct voice and a strong foundation for growth. (Identity, Strategy, Brand Guidelines, Visual Systems)
+- **Experience & Design** — We design digital experiences that are intuitive, engaging, and visually powerful. Every interface is crafted to create meaningful interactions between brands and people. (UX/UI Design, Product Design, Interactive, Design Systems)
+- **Engineering & Technology** — Beautiful ideas deserve powerful execution. We build fast, scalable digital platforms using modern technologies to ensure performance, reliability, and long-term growth. (Web Applications, CMS Integration, Optimization, Technical Architecture)
+- **Growth & Optimization** — Launching is only the beginning. We help brands grow through data-driven marketing strategies, continuous optimization, and digital campaigns that reach the right audience. (Digital Marketing, SEO Strategy, Analytics & Insights, Social Presence)
+
+## How we work — The Jungle Code
+
+- **Strategy First** — Everything starts with clarity, not visuals. We define direction before anything is designed or built.
+- **Systems Over Screens** — We design connected systems, not isolated screens or experiences. Every part is built to work together as one.
+- **Design With Purpose** — Aesthetic only matters when it serves intent. Every visual decision is made to improve clarity and experience.
+- **Build to Evolve** — Nothing we create is static — everything is designed to grow over time. We build with flexibility, not finality.
+- **Performance Is Part of Design** — If it doesn't work well, it isn't well designed. Functionality and experience are treated as one, not separate layers.
+
+## Case studies
+
+- [nü Cosmetics](https://fromjungle.co/works/nu-cosmetics/) — Surreal, art-directed reels and graphics for a young beauty brand — content built to reach far past its followers. One reel alone crossed 576K views. (nü Cosmetics · 2026 · Beauty · Cosmetics · Marketing Content Creation)
+- [GAG Nepal](https://fromjungle.co/works/gag-nepal/) — Product reels for GAG Nepal — the country's authorised Apple reseller — shot in-store and shipped across Instagram, Facebook and TikTok. One store-launch reel alone hit 359K views. (GAG Nepal · 2026 · Apple Reseller · Gadget Retail · Marketing Content Creation)
+- [Ghumgham](https://fromjungle.co/works/ghumgham/) — A bold, mountain-rooted identity for Nepal's all-in-one travel platform — built to make travel feel local, human, and worth trusting. (Ghumgham.com · 2026 · Travel & Tourism · Brand Identity · Design)
+- [Fudo](https://fromjungle.co/works/fudo/) — Our in-house corporate lunch-ordering platform — product design and full-stack build, end to end. Employees order the day's meal, managers approve, and vendors cook exactly what's been sold. (Fudo — in-house product · 2026 · Corporate Food · SaaS · Product Design · UI/UX · Full-Stack Build)
+- [Billin](https://fromjungle.co/works/billin/) — Marketing content — reels and graphics — for Billin, the open ERP that runs a whole business on one platform. Turning fourteen modules into scroll-stopping stories. (Billin · 2026 · Open ERP · Business Software · Marketing Content Creation)
+- [Frogging Nook](https://fromjungle.co/works/frogging-nook/) — Nepal's crochet community, end to end — brand identity, a full-stack platform (Astro + React apps with a TanStack admin), and the marketing that grew it from zero to 904 followers. (Frogging Nook · 2026 · Crochet Community · Events · Brand Identity · Tech · Marketing)
+- [Ruby Homes](https://fromjungle.co/works/ruby/) — A confident, considered brand system and website for a real-estate developer redefining how Nepalis live. (Ruby Homes · 2025 · Real Estate · Brand Identity · Design)
+- [Berrico](https://fromjungle.co/works/berrico/) — An identity rooted in craft for a chocolate brand, paired with a digital experience that lets the product speak. (Berrico · 2025 · Food & Beverage · Chocolate · Brand Identity · Growth Marketing)
+- [Breathless](https://fromjungle.co/works/breathless/) — The UI/UX for Breathless Expeditions — a dark, cinematic digital basecamp for the mountaineering company founded by the youngest climber to summit all 14 eight-thousanders. Our oldest project. (Breathless Expeditions · 2025 · Mountaineering · Adventure Travel · UI/UX Design)
+
+## Pages
+
+- [Home](https://fromjungle.co/) — services, selected work, and the three sub-brands
+- [About](https://fromjungle.co/about/) — the studio, its principles, and what we build
+- [Our Works](https://fromjungle.co/works/) — the full portfolio
+- [Contact](https://fromjungle.co/contact/) — project enquiries
+- [Book an Appointment](https://fromjungle.co/book-appointment/) — a free 30-minute call
+- [Events](https://events.fromjungle.co/) — ZOO Sessions, Last Friday, and the rest of the calendar
+
+## Contact
+
+- Email: contact@fromjungle.co
+- https://instagram.com/jungletech_
+- https://www.instagram.com/jungle.mktg
+- https://linkedin.com/company/jungleofficial
