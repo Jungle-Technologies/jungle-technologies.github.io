@@ -1,1 +1,0 @@
-import{j as e}from"./jsx-runtime.D_zvdyIk.js";function l(){return e.jsxs("div",{className:"p-4 flex flex-col w-full h-full justify-center items-center gap-3",children:[e.jsx("span",{className:"leaf-rattle text-4xl",children:"🍃"}),e.jsx("span",{className:"text-xl",children:"Rustling the leaves..."})]})}export{l as L};
